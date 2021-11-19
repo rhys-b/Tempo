@@ -39,7 +39,6 @@ If flatlaf-1.6.jar was extracted in the compile step, then run with:
 
 `java Tempo`
 
-
-The two libraries used are:
-+ [FlatLAF](https://www.formdev.com/flatlaf), which styles the GUI components according to the cobalt.style.json file.
+## External Libraries
++ [FlatLAF](https://www.formdev.com/flatlaf), which styles the GUI components according to the [Carbon Theme](https://github.com/luisfer0793/theme-carbon).
 + Java Default Library
