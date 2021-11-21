@@ -1,7 +1,7 @@
 # Tempo
 YYC Hackathon 2021 Submission (Rhys Byers & Andy Chen)
 
-With the theme this year based around mental health, particularly during the COVID pandemic, it seemed like a perfect time to make a goal planner. Setting and managing goals is critical for positive mental health, and one of Tempo's purposes is to help manage goals. Additionally, it tracks and graphically demonstrates how the user is spending their time, allowing the user to make concious decisions toward a more balanced lifestyle. Tempo runs on any desktop environment that can run the Java Runtime.
+With the theme this year based around mental health, particularly during the COVID pandemic, it seemed like a perfect time to make a goal planner. Setting and managing goals is critical for positive mental health, which is one of Tempo's main purposes. Additionally, it tracks and graphically demonstrates how the user is spending their time, allowing the user to make conscious decisions toward a more balanced lifestyle. Tempo runs on any desktop environment that can run the Java Runtime.
 
 ## Compiling
 
